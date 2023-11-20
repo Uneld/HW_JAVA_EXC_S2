@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ff606c-7375-43a4-952f-4489f227af60" name="Changes" comment="" />
+    <list default="true" id="c4ff606c-7375-43a4-952f-4489f227af60" name="Changes" comment="complete task 4">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YRsqsKhRa76hfIztuxRoXbXbNv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +40,66 @@
       <option name="presentableId" value="Default" />
       <updated>1700499922452</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start project">
+      <created>1700499978858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700499978858</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added git ignore">
+      <created>1700499989251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700499989251</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete main">
+      <created>1700500061878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700500061878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="complete task 1">
+      <created>1700500078688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700500078688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="complete task 2">
+      <created>1700500083489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700500083489</updated>
+    </task>
+    <task id="LOCAL-00006" summary="complete task 3">
+      <created>1700500088593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700500088593</updated>
+    </task>
+    <task id="LOCAL-00007" summary="complete task 4">
+      <created>1700500093812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700500093812</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start project" />
+    <MESSAGE value="added git ignore" />
+    <MESSAGE value="delete main" />
+    <MESSAGE value="complete task 1" />
+    <MESSAGE value="complete task 2" />
+    <MESSAGE value="complete task 3" />
+    <MESSAGE value="complete task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete task 4" />
   </component>
 </project>
